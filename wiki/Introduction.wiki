@@ -1,12 +1,11 @@
-
+#labels Todo
 = Introduction =
 
-Add your content here.
+The project is now in the startup phase and as such we do not have much to write here.
 
 
-= Details =
+= Todo =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+These are the things that is needed to be done within the microlog4android.
+
+  * Write the configurator classes. We should start from scratch with the configuration of microlog4android.
