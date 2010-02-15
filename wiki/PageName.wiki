@@ -8,4 +8,4 @@ Here we try to collect all important information for the microlog4android projec
 
 There are a lot of things that needs to be done within the microlog4android project. Here we try to collect these things.
 
-* Write the configurator classes. We should start from scratch with the configuration of microlog4android.
+  * Write the configurator classes. We should start from scratch with the configuration of microlog4android.
