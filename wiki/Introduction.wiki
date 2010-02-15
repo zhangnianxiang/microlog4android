@@ -9,6 +9,6 @@ The project is now in the startup phase and as such we do not have much to write
 These are the things that is needed to be done within the microlog4android.
 
   * Code cleanup
-  * Implement configuration. A new PropertyConfigurator?
-  * Write a new FileAppender?
+  * Implement configuration. A new PropertyConfigurator maybe.
+  * Write a new FileAppender
   * Write a HTTPAppender
