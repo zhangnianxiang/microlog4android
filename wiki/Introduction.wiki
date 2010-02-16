@@ -19,4 +19,3 @@ For V1.0:
 
 Future versions:
   * Write SyslogAppender?
-  * Re-use the MemoryBufferAppender and clean it up?
