@@ -14,7 +14,7 @@ All in all we expect the solution to be simpler and the footprint should be less
 
 Some  thoughts/ideas/questions?
 
+  * Should we have automatic configuration?
   * Should we use a solution similar to Log4j/Microlog, that is should we use a PropertyConfigurator class for setup? Or should we use a totally new solution?
   * Should the configuration be backward compatible with microlog? In other words should it be possible to use the simple setup with no Logger hierarchy. Many people have praised how simple it is to setup up Microlog.
   * Should the shared preferences be used for setup? This is a natural way to store preferences for the application.
-
