@@ -12,7 +12,7 @@ For V1.0:
 
   * Write build script (Gradle)
   * Code cleanup
-  * Implement configuration. A new PropertyConfigurator maybe.
+  * Implement configuration. A new PropertyConfigurator maybe? Automatic configuration?
   * Write a new FileAppender
   * Write an EmailAppender or similar
   * Write a HTTPAppender
