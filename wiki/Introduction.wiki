@@ -17,4 +17,5 @@ For V1.0:
   * Write a HTTPAppender
 
 Future versions:
-  * Write SyslogAppender.
+  * Write SyslogAppender?
+  * Re-use the MemoryBufferAppender and clean it up?
