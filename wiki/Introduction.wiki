@@ -14,6 +14,7 @@ For V1.0:
   * Code cleanup
   * Implement configuration. A new PropertyConfigurator maybe.
   * Write a new FileAppender
+  * Write an EmailAppender or similar
   * Write a HTTPAppender
 
 Future versions:
