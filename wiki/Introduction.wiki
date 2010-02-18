@@ -20,4 +20,4 @@ For V1.0:
 Future versions:
   * Write SyslogAppender?
   * Write a Google App Engine Appender?
-  * Would it be possible to create a BluetoothAppender?
+  * Would it be possible to create a BluetoothAppender? Should it be useful? The USB connection works well.
