@@ -10,11 +10,10 @@ These are the things that is needed to be done within the microlog4android.
 
 For V1.0:
 
-  * Write build script (Gradle)
+  * Write build script (Gradle). This should at least create distributables.
   * Code cleanup
   * Implement configuration. A new PropertyConfigurator maybe? Automatic configuration?
   * Write a new FileAppender
-  
   * Write a HTTPAppender
 
 Future versions:
