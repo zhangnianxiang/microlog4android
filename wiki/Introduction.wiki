@@ -14,10 +14,11 @@ For V1.0:
   * Code cleanup
   * Implement configuration. A new PropertyConfigurator maybe? Automatic configuration?
   * Write a new FileAppender
-  * Write an EmailAppender or similar
+  
   * Write a HTTPAppender
 
 Future versions:
+  * Write an EmailAppender or similar
   * Optimize for use in a Java SE environment. For example replace Vector usage with a List implementation. Replace Hashtables with Map etc etc.
   * Make the PatternFormatter support new features to make it compatible with the PatternLayout in Log4j. In other words implement features that was not possible in Java ME.
   * Write SyslogAppender?
