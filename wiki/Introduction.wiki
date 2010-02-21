@@ -14,13 +14,14 @@ For V1.0:
   * Code cleanup
   * Remove "reflection" methods found in the appenders that is used in Java ME to circumvent the missing reflection capabilities.
   * Implement configuration. A new PropertyConfigurator maybe? Automatic configuration?
-  * Write a new FileAppender
+  * --Write a new FileAppender-- Done
+  * --Write SyslogAppender-- Done
   * Write a HTTPAppender
 
 Future versions:
   * Write an EmailAppender or similar. Should make it possible to e-mail your log files when the get to big and/or in an emergency situation.
   * Optimize for use in a Java SE environment. For example replace Vector usage with a List implementation. Replace Hashtables with Map etc etc.
   * Make the PatternFormatter support new features to make it compatible with the PatternLayout in Log4j. In other words implement features that was not possible in Java ME.
-  * Write SyslogAppender?
+  
   * Write a Google App Engine Appender?
   * Would it be possible to create a BluetoothAppender? Should it be useful? The USB connection works well.
