@@ -16,4 +16,4 @@ Some  thoughts/ideas/questions?
 
   * Should we have automatic configuration? Configuration via a PropertyConfigurator?
   * Should the configuration be backward compatible with microlog? In other words should it be possible to use the simple setup with no Logger hierarchy. Many people have praised how simple it is to setup up Microlog.
-  * Should the shared preferences be used for setup? This is a natural way to store preferences for the application.
+  * We should use properties files stored as a resource. Read this investigation for more information: [http://myossdevblog.blogspot.com/2010/02/reading-properties-files-on-android.html]
