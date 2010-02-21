@@ -12,6 +12,7 @@ For V1.0:
 
   * Write build script (Gradle). This should at least create distributables.
   * Code cleanup
+  * Remove "reflection" methods found in the appenders that is used in Java ME to circumvent the missing reflection capabilities.
   * Implement configuration. A new PropertyConfigurator maybe? Automatic configuration?
   * Write a new FileAppender
   * Write a HTTPAppender
