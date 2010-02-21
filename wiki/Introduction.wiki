@@ -14,9 +14,6 @@ For V1.0:
   * Code cleanup
   * Remove "reflection" methods found in the appenders that is used in Java ME to circumvent the missing reflection capabilities.
   * Implement configuration. A new PropertyConfigurator maybe? Automatic configuration?
-  * Write a new FileAppender Done
-  * Write a DatagramAppender Done
-  * Write SyslogAppender Done
   * Write a HTTPAppender
 
 Future versions:
@@ -26,3 +23,10 @@ Future versions:
   
   * Write a Google App Engine Appender?
   * Would it be possible to create a BluetoothAppender? Should it be useful? The USB connection works well.
+
+= Done =
+
+These are the things that we have finished from out todo list.
+  * Write a new FileAppender
+  * Write a DatagramAppender
+  * Write SyslogAppender
