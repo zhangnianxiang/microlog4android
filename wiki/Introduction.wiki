@@ -9,8 +9,7 @@ The project is now in the startup phase and as such we do not have much to write
 These are the things that is needed to be done within the microlog4android.
 
 For V1.0:
-  * Write build script (Gradle). This should at least create distributables.
-  * Code cleanup
+  
   * Remove "reflection" methods found in the appenders that is used in Java ME to circumvent the missing reflection capabilities.
   * Implement configuration. A new PropertyConfigurator maybe? Automatic configuration?
   * Write a HTTPAppender
@@ -29,3 +28,5 @@ These are the things that we have finished from out todo list.
   * Write a new FileAppender
   * Write a DatagramAppender
   * Write SyslogAppender
+  * Write build script (Gradle). This should at least create distributables.
+  * Code cleanup
