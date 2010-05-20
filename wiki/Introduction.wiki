@@ -15,11 +15,11 @@ For V1.0:
   * Write a HTTPAppender
 
 Future versions:
+  * Add support for registering M4A as default uncaught exception handler.
   * Write an EmailAppender or similar. Should make it possible to e-mail your log files when the get to big and/or in an emergency situation.
-  * Optimize for use in a Java SE environment. For example replace Vector usage with a List implementation. Replace Hashtables with Map etc etc.
   * Make the PatternFormatter support new features to make it compatible with the PatternLayout in Log4j. In other words implement features that was not possible in Java ME.
   * Write a Google App Engine Appender?
-  * Would it be possible to create a BluetoothAppender? Should it be useful? The USB connection works well.
+  * Write a Google App Engine server "thingie"
 
 = Done =
 
@@ -30,3 +30,4 @@ These are the things that we have finished from out todo list.
   * Write SyslogAppender
   * Write build script (Gradle). This should at least create distributables.
   * Code cleanup
+  * Optimize for use in a Java SE environment. For example replace Vector usage with a List implementation. Replace Hashtables with Map etc etc.
